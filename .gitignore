@@ -1,0 +1,6 @@
+dados/
+__pycache__/
+.DS_Store
+saida/secoes.csv
+saida/*.log
+saida/amostra_*.json
