@@ -66,7 +66,7 @@ Se a sua soma não bater com estes números, a leitura está errada:
 - votos Lula: 64.256.232; votos Flávio: 59.826.041 (iguais ao resultado oficial do TSE);
 - comparecimento no boletim (Lula + Flávio + brancos + nulos): 128.236.074;
 - votos com horário no log: 128.234.735;
-- votos depois das 17h: 34.716; desses, 29.291 até 17h04min59s e 1.993 às 18h ou depois.
+- votos depois das 17h: 34.716, sendo 34.330 no Brasil e 386 no exterior (`uf` = `zz`); desses, 29.291 até 17h04min59s e 1.993 às 18h ou depois.
 
 ## Lacunas conhecidas
 

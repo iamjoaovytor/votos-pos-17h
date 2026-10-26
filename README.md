@@ -2,7 +2,7 @@
 
 Quantos eleitores votaram depois das 17h no 2º turno de 25/10/2026, e o resultado mudaria se todos eles tivessem votado no Flávio?
 
-**Não mudaria.** Foram 34.716 votos depois das 17h (0,027% do comparecimento). Mesmo no pior caso possível para o Lula, em que todos esses eleitores tivessem votado nele e passassem a votar no Flávio, o Lula venceria com 51,76% dos votos válidos, por 4.360.759 votos de diferença.
+**Não mudaria.** Foram 34.716 votos depois das 17h (0,027% do comparecimento): 34.330 no Brasil e 386 no exterior. Mesmo no pior caso possível para o Lula, em que todos esses eleitores tivessem votado nele e passassem a votar no Flávio, o Lula venceria com 51,76% dos votos válidos, por 4.360.759 votos de diferença.
 
 | Cenário | Lula (13) | Flávio (22) | Vantagem do Lula |
 |---|---|---|---|

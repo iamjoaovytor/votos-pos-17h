@@ -113,6 +113,8 @@ def main() -> None:
         },
         "votos": {
             "comparecimento_bu": comparecimento, "votos_no_log": votos, "pos_17h": tardios,
+            "pos_17h_brasil": sum(r["tardios"] for r in ok if r["uf"] != "zz"),
+            "pos_17h_exterior": sum(r["tardios"] for r in ok if r["uf"] == "zz"),
             "pos_17h_pct": 100 * tardios / votos, "ultimo_voto": max(r["ultimo"] for r in ok if r["ultimo"]),
         },
         "conferencia_oficial": {
